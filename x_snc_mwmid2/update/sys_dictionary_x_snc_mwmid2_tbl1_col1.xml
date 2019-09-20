@@ -53,7 +53,7 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>matt.wilkofsky@snc</sys_created_by>
         <sys_created_on>2019-09-20 18:33:07</sys_created_on>
-        <sys_id>a9b40145db084010a60476231f9619e7</sys_id>
+        <sys_id>9635c14ddb0840105dc970f5bf9619fa</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Col1</sys_name>
         <sys_package display_value="mwmid2" source="x_snc_mwmid2">93948105db084010a60476231f96193c</sys_package>
@@ -61,7 +61,7 @@
         <sys_scope display_value="mwmid2">93948105db084010a60476231f96193c</sys_scope>
         <sys_update_name>sys_dictionary_x_snc_mwmid2_tbl1_col1</sys_update_name>
         <sys_updated_by>matt.wilkofsky@snc</sys_updated_by>
-        <sys_updated_on>2019-09-20 18:33:07</sys_updated_on>
+        <sys_updated_on>2019-09-20 18:34:51</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
